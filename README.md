@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tuong1325, an IT newbie.
+- 👀 I’m interested in app developer
+- 🌱 I’m currently learning androi, Java
+- 💞️ I’m looking to collaborate on github @Tuong1325
+- 📫 How to reach me ...
